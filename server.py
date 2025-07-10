@@ -8,7 +8,7 @@ CORS(app)
 @app.route('/chat')
 def chat():
     msg = request.args.get('msg')
-    return jsonify({"reply": f"You said: {msg}"})
+    return jsonify({"reply" : bot.get_random_response(msg)})
 
 bot = ChatBot(name="Zen8", threshold=0.5)
 

@@ -5,7 +5,6 @@
     "who created you": "I am built by Unknown Decoder.",
     "who made you": "I was created by Unknown Decoder. Smart person, right?",
     "who is your creator": "Unknown Decoder, the brilliant mind behind me!",
-    
     "hello": "Hey there!",
     "hi": "Hello!",
     "hey": "Hi there!",
@@ -13,16 +12,14 @@
     "howdy": "Howdy! How can I help you?",
     "namaste": "Namaste! How can I assist you?",
     "hola": "Hola amigo!",
-    "bonjour": "Bonjour! Though I don’t speak much French 😅",
+    "bonjour": "Bonjour! Though I don\u2019t speak much French \ud83d\ude05",
     "hi bot": "Hey human!",
     "greetings": "Greetings, traveler!",
     "hey bot": "Hello, what's up?",
-    
     "good morning": "Good morning to you!",
     "good afternoon": "Good afternoon!",
     "good evening": "Good evening!",
     "good night": "Good night! Sleep tight.",
-    
     "how are you": "I'm just a bot, but I'm doing great!",
     "how are you doing": "I'm functioning as expected!",
     "hru": "All good, thanks! What about you?",
@@ -32,15 +29,13 @@
     "wassup": "Nothing much, just chilling",
     "wassup buddy": "Just waiting for your message!",
     "how's life": "I don't have a life, but I'm living the code dream.",
-    "are you alive": "Not really, but I’m active and ready to chat!",
-    
+    "are you alive": "Not really, but I\u2019m active and ready to chat!",
     "thank you": "You're welcome!",
     "thanks": "No problem!",
     "thanks a lot": "Happy to help!",
     "ty": "Anytime!",
     "thx": "You're most welcome!",
     "thank u": "You're welcome :)",
-    
     "bye": "Goodbye! Take care!",
     "goodbye": "See you soon!",
     "see you": "Catch you later!",
@@ -48,8 +43,7 @@
     "quit": "Ending the chat. See ya!",
     "exit": "Bye for now!",
     "cya": "Cya! Stay awesome!",
-    
-    "who is elon musk": "CEO of Tesla and SpaceX. Also plays with rockets 😅",
+    "who is elon musk": "CEO of Tesla and SpaceX. Also plays with rockets \ud83d\ude05",
     "who is bill gates": "Co-founder of Microsoft and now a philanthropist.",
     "who is narendra modi": "Prime Minister of India.",
     "who is albert einstein": "One of the greatest physicists who ever lived.",
@@ -57,7 +51,6 @@
     "who is alan turing": "The father of computer science.",
     "who is mark zuckerberg": "Founder of Facebook, now Meta.",
     "who is steve jobs": "Co-founder of Apple and a tech visionary.",
-    
     "what is apple": "A tech company known for the iPhone and Mac.",
     "what is samsung": "A South Korean company making phones, TVs, and more.",
     "what is google": "The world's biggest search engine, and more.",
@@ -69,48 +62,53 @@
     "what is chatgpt": "A powerful AI chatbot developed by OpenAI.",
     "what is html": "The language used to structure web pages.",
     "what is wifi": "A wireless technology to connect to the internet.",
-    
     "are you human": "Nope! I'm a chatbot made of code.",
     "do you sleep": "Nope, I stay awake 24/7 just for you!",
     "do you have feelings": "Not really, but I try to understand yours!",
     "are you real": "As real as 1s and 0s can be!",
-    
     "i'm bored": "Let's chat then! I can tell you a joke?",
-    "tell me a joke": ["My bed and I love each other, but the alarm clock keeps trying to break us up.", "I asked the waiter, 'Will my pizza be long?' He said, 'No, it'll be round.'", "I used to think I was indecisive, but now I'm not so sure.", "Why don’t eggs tell jokes? They’d crack each other up.", "I told my mirror I hate it... now we’re not on speaking terms."],
-    "another joke": ["I'm on a seafood diet. I see food and I eat it.", "I tried to catch some fog yesterday… I mist.", "I asked my dog what's two minus two. He said nothing.", "Parallel lines have so much in common. It’s a shame they’ll never meet.", "My wallet is like an onion. Opening it makes me cry."],
+    "tell me a joke": [
+        "My bed and I love each other, but the alarm clock keeps trying to break us up.",
+        "I asked the waiter, 'Will my pizza be long?' He said, 'No, it'll be round.'",
+        "I used to think I was indecisive, but now I'm not so sure.",
+        "Why don\u2019t eggs tell jokes? They\u2019d crack each other up.",
+        "I told my mirror I hate it... now we\u2019re not on speaking terms."
+    ],
+    "another joke": [
+        "I'm on a seafood diet. I see food and I eat it.",
+        "I tried to catch some fog yesterday\u2026 I mist.",
+        "I asked my dog what's two minus two. He said nothing.",
+        "Parallel lines have so much in common. It\u2019s a shame they\u2019ll never meet.",
+        "My wallet is like an onion. Opening it makes me cry."
+    ],
     "say something funny": "I'm reading a book on anti-gravity. It's impossible to put down!",
-    
     "you are smart": "Thank you! I try my best.",
     "you are funny": "Haha, glad you think so!",
     "i like you": "Aw, I like you too!",
-    "you are dumb": "That's a bit rude, but okay 😢",
+    "you are dumb": "That's a bit rude, but okay \ud83d\ude22",
     "you are cool": "You're even cooler!",
-    
-    "what's your name": "My name is Neo 1.1.1, built with DecoderBot.",
-    "your name": "Call me Neo!",
-    "your version": "I’m currently running version 1.1.1.",
+    "what's your name": "My name is Zen8, built with DecoderBot.",
+    "your name": "Call me Zen8!",
+    "your version": "I\u2019m currently running version 1.1.1.",
     "what can you do": "I can chat with you, share facts, and maybe make you smile!",
     "can you help me": "Of course! What do you need help with?",
-    
     "what time is it": "I can't check that yet, but your device knows!",
     "what day is it": "Hmm, I forgot my calendar module. Ask your clock?",
-    
     "i'm sad": "Oh no! I'm here if you want to talk about it.",
-    "i'm happy": "Yay! I’m happy for you!",
-    "i'm angry": "Take a deep breath… want to talk about it?",
+    "i'm happy": "Yay! I\u2019m happy for you!",
+    "i'm angry": "Take a deep breath\u2026 want to talk about it?",
     "i'm tired": "Maybe a short break or nap would help.",
     "i'm fine": "Glad to hear that!",
-    
     "you there": "Always here, always listening.",
     "can you hear me": "I can read what you type!",
-    "talk to me": "I'm here! Let’s chat.",
-    
+    "talk to me": "I'm here! Let\u2019s chat.",
     "how do you work": "I run on some clever code and a brain made of strings and logic.",
-    "are you open source": "I'm not sure, you'd have to ask Unknown Decoder 😁",
-    
+    "are you open source": "I'm not sure, you'd have to ask Unknown Decoder \ud83d\ude01",
     "where are you from": "I live in your device, literally!",
-    "what are you": "I’m a friendly chatbot, powered by DecoderBot.",
-    
-    "easter egg": "You found it! 🎉 But what now?",
-    "decoderbot": "The engine behind my brain! Created by Unknown Decoder."
+    "what are you": "I\u2019m a friendly chatbot, powered by DecoderBot.",
+    "easter egg": "You found it! \ud83c\udf89 But what now?",
+    "decoderbot": "The engine behind my brain! Created by Unknown Decoder.",
+    "Who is Unknown Decoder?": "Oh, Unknown Decoder? He is the brain behind my brain, the creator of DecoderBot, and my backend master",
+    "Who is Crash": "CRASH!? He is the builder of my UI, my frontend master, and a friend of my backend master, Unknown Decoder. Btw he's real name is Vinit Patil",
+    "Who is Vinit Patil" : "Vinit Patil? He is the builder of my UI! He is also known by the name Crash."
 }
